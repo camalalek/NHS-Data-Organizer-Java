@@ -1,2 +1,2 @@
-# NHS-Data-Filter-Java
-NHS big data filter developed with Java
+# NHS-Data-Organizer-Java
+NHS big data organizer developed with Java (OOP & Event-Driven)
